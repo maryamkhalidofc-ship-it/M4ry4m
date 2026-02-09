@@ -1,10 +1,10 @@
 # M4ry4m
 Welcome to my Profile
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Maryam Khalid! 👋
 
-### ⚡ A passionate [Your Role, e.g., Full-Stack Developer] from [Your Location]
+### ⚡ A passionate Python Backend Developer from Royal Heritage City Mysore
 
-I spend my time building [mention what you build, e.g., scalable web apps / open-source tools / neural networks] and trying to write code that my future self won't hate.
+I spend my time building some orijects based on Python language that can be scable and Open source and trying to write code that my future self won't hate.
 
 ---
 
@@ -12,10 +12,7 @@ I spend my time building [mention what you build, e.g., scalable web apps / open
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Go |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, FastAPI, PostgreSQL |
-| **DevOps** | Docker, AWS, GitHub Actions |
+| **Languages** | Python, SQL, Flask, FastAPI, basics in AI tools with Python, GitHub|
 
 ---
 
